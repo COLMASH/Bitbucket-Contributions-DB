@@ -1,2 +1,2 @@
 console.log("byscb")
-console.log("pquln")
+console.log("llorn")
