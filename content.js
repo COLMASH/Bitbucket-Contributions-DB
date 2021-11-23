@@ -1,2 +1,2 @@
 console.log("byscb")
-console.log("llorn")
+console.log("yegok")
